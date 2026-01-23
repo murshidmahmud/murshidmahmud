@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C++/java/python**
 
-- 👯 I’m looking to collaborate on [Github](https://github.com/Murshid057)
+- 👯 I’m looking to collaborate on [Github](https://github.com/murshidmahmud)
 
 - 💬 Ask me about **cpp/java/py**/html/css
 
