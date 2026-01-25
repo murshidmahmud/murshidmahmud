@@ -41,3 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murshidmahmud&show_icons=true&locale=en" alt="murshidmahmud" width="397"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murshidmahmud&show_icon=true&locale=en" alt="murshidmahmud" width="400"/></p>
+
+
+<image wigth="100%" src="https://capsule-render.vercel.app/api?type=waving&height=67&color=gradient&section=footer&fontAlignY=76&animation=twinkling&fontSize=30&descAlign=70"/>
