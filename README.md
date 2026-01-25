@@ -46,5 +46,4 @@
 <div align = "center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=900&color=ACEBF7&center=true&vCenter=true&width=435&lines=Thank+you+for+Visiting;I'm+watting+for+you+again;Have+a+nice+day!+%F0%9F%98%8A" alt="Typing SVG" /></a>
 </div>
-<br>
 <image wigth="100%" src="https://capsule-render.vercel.app/api?type=waving&height=67&color=gradient&section=footer&fontAlignY=76&animation=twinkling&fontSize=30&descAlign=70"/>
