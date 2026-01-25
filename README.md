@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;I+am+Murshid Mahmud" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Hi!+There;I+am+Murshid+Mahmud;Welcome+to+my+profile" alt="Typing SVG" /></a>
 </div>
 
 ![Competitive Problem Solver](https://media.licdn.com/dms/image/v2/D4D16AQHnXacMaW2I7A/profile-displaybackgroundimage-shrink_350_1400/B4DZf1raVXGQAY-/0/1752173489127?e=1769644800&v=beta&t=RXApj6EkRg6lQh1qlRzm_GdoTtivV7ftQvRfuzgVGUY)
