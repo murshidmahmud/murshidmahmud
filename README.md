@@ -47,6 +47,7 @@
     <img height="192px" src="https://github-readme-stats.vercel.app/api?username=murshidmahmud&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
   </div>
 <br>
+</details>
 
 <div align = "center">
  <br>
