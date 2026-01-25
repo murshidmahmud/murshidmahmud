@@ -5,7 +5,6 @@
 <br>
 
 ![Competitive Problem Solver](https://media.licdn.com/dms/image/v2/D4D16AQHnXacMaW2I7A/profile-displaybackgroundimage-shrink_350_1400/B4DZf1raVXGQAY-/0/1752173489127?e=1769644800&v=beta&t=RXApj6EkRg6lQh1qlRzm_GdoTtivV7ftQvRfuzgVGUY)
-<h1 align="center">Hi 👋, I'm Md Murshid Mahmud</h1>
 <h3 align="center">📲Programmer & Problem Solver💊</h3>
 <h5 align="center">🌲THINK LESS, DO MORE🌱</h5>
 <h4 align = "left"> About Me: </h4>
