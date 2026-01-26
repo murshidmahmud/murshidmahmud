@@ -26,7 +26,7 @@
 
 <details open>
 <summary align="center"><h2>Connect with me</h2></summary>
-<div align="center">
+<div id="badges" align="center">
 <a href="https://twitter.com/murshid57" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murshid57" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/md-murshid-mahmud-41a9a1373?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQX2JDMtLS16n%2B%2BAFbzZA%2Fg%3D%3D" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-murshid-mahmud-41a9a1373" height="30" width="30" /></a>
 <a href="https://fb.com/@mahmudmurshidtoto.202" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@mahmudmurshidtoto.202" height="30" width="30" /></a>
