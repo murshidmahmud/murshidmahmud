@@ -11,6 +11,7 @@
 <p5 align="left">I'm a dedicated programmer & problem solver with a strong passion for writing clean and efficient code. I enjoy transforming complex problems into simple, logical solutions through smart algorithms and optimized implementation. My work focuses on performance, accuracy, and scalability to ensure real-world reliability. I continuously learn new technologies to stay updated and improve my development skills. </p5>
 <br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=murshidmahmud&label=Profile%20views&color=0e75b6&style=flat" alt="murshidmahmud" /> </p>
+ <image algin="right" src="image/ai.gif" height=45% width=35%/>
 - 🔭 I’m currently working on Problem Solving on <a href="https://codeforces.com/profile/Murshid_Mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/murshid_mahmud" height="20" width="30" /></a> 
 <a href="https://www.codechef.com/users/mahmud5700" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef profile" height="30" width="40" /></a>
 
@@ -18,11 +19,11 @@
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/murshidmahmud)
 
-- 💬 Ask me about **cpp/java/py**/html/css
+- 💬 Ask me about **cpp/java/py**/html/css <image alt="GIF" src="image/paper.gif" width="35px" align="center"/>
 
 - 📫 How to reach me **murshidmahmud4@gmail.com**
 
-- ⚡ Fun fact **I love coding** <image alt="GIF" src="image/laptop.gif" width="30px" align="center"/>
+- ⚡ Fun fact **I love coding** <image alt="GIF" src="image/laptop.gif" width="45px" align="center"/>
 
 <details open>
 <summary align="center"><h2>Connect with me <img alt="GIF" src="image/handshake2.gif" width="30px" align="center"/></h2></summary>
