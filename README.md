@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **murshidmahmud4@gmail.com**
 
-- ⚡ Fun fact **I love coding**
+- ⚡ Fun fact **I love coding** <image alt="GIF" src="image/laptop.gif" width="30px" align="center"/>
 
 <details open>
 <summary align="center"><h2>Connect with me <img alt="GIF" src="image/handshake2.gif" width="30px" align="center"/></h2></summary>
