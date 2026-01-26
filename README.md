@@ -4,17 +4,17 @@
 </div>
 
 ![Competitive Problem Solver](https://media.licdn.com/dms/image/v2/D4D16AQHnXacMaW2I7A/profile-displaybackgroundimage-shrink_350_1400/B4DZf1raVXGQAY-/0/1752173489127?e=1769644800&v=beta&t=RXApj6EkRg6lQh1qlRzm_GdoTtivV7ftQvRfuzgVGUY)
-<h3 align="center"><image alt="GIF" src="image/Developer.gif" width="40px" align="center"/> Programmer & Problem Solver <image alt="GIF" src="image/laptop_code.gif" width="30px" align="center"/></h3>
+<h3 align="center"><image alt="GIF" src="image/Developer.gif" width="40px" align="center"/> Programmer & Problem Solver <image alt="GIF" src="image/laptop_code.gif" width="35px" align="center"/></h3>
 <h5 align="center">🌲THINK LESS, DO MORE🌱</h5>
 <h1 align="center"></h1>
-<h4 align = "left"> About Me: <img alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30px" align="center"/></h4>
+<h4 align = "left"> About Me: <img alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="35px" align="center"/></h4>
 <p5 align="left">I'm a dedicated programmer & problem solver with a strong passion for writing clean and efficient code. I enjoy transforming complex problems into simple, logical solutions through smart algorithms and optimized implementation. My work focuses on performance, accuracy, and scalability to ensure real-world reliability. I continuously learn new technologies to stay updated and improve my development skills. </p5>
 <br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=murshidmahmud&label=Profile%20views&color=0e75b6&style=flat" alt="murshidmahmud" /> </p>
 - 🔭 I’m currently working on Problem Solving on <a href="https://codeforces.com/profile/Murshid_Mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/murshid_mahmud" height="20" width="30" /></a> 
 <a href="https://www.codechef.com/users/mahmud5700" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef profile" height="30" width="40" /></a>
 
-- 🌱 I’m currently learning **C/C++/java/python** <image alt="GIF" src="image/learninig.gif" width="25px" align="center"/>
+- 🌱 I’m currently learning **C/C++/java/python** <image alt="GIF" src="image/learninig.gif" width="30px" align="center"/>
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/murshidmahmud)
 
@@ -25,7 +25,7 @@
 - ⚡ Fun fact **I love coding**
 
 <details open>
-<summary align="center"><h2>Connect with me <img alt="GIF" src="image/handshake2.gif" width="25px" align="center"/></h2></summary>
+<summary align="center"><h2>Connect with me <img alt="GIF" src="image/handshake2.gif" width="30px" align="center"/></h2></summary>
 <div id="badges" align="center">
 <a href="https://twitter.com/murshid57" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murshid57" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/md-murshid-mahmud-41a9a1373?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQX2JDMtLS16n%2B%2BAFbzZA%2Fg%3D%3D" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-murshid-mahmud-41a9a1373" height="30" width="30" /></a>
@@ -45,7 +45,7 @@
 </details>
 
 <details open>
-<summary align="center"><h2>Profile Statistics <image alt="GIF" src="image/statistics.gif" width="25px" align="center"/></h2></summary>
+<summary align="center"><h2>Profile Statistics <image alt="GIF" src="image/statistics.gif" width="35px" align="center"/></h2></summary>
  
 <div align="center">
  <br>
