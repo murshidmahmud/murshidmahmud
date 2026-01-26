@@ -55,8 +55,9 @@
     <img height="192px" alt="Marzan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murshidmahmud&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" weight=41% height="192px"/>
     <img height="192px" src="https://github-readme-stats.vercel.app/api?username=murshidmahmud&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
   </div>
+  <br>
   <div align="center">
-  <a href="https://github.com/aamarzan"><img alt="Marzan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=murshidmahmud&bg_color=00000000&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  <a href="https://github.com/murshidmahmud"><img alt="Marzan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=murshidmahmud&bg_color=00000000&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
 <br>
 </details>
