@@ -54,7 +54,7 @@
  <br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=murshidmahmud&theme=github-dark-blue&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
     <br><br>
-    <img height="192px"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murshidmahmud&theme=default" weight=41% height="192px"/>
+    <img height="192px"  src="http://github-profile-summary-cards.vercel.app/api/top-langs/?username=murshidmahmud&theme=default" weight=41% height="192px"/>
     <img height="192px" src="https://github-readme-stats.vercel.app/api?username=murshidmahmud&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
   </div>
   <br>
