@@ -4,7 +4,7 @@
 </div>
 
 <p>
- <image src="image/Linkedin-banner.jpg" alt="Cover banner"/>
+ <image src="image/cover-photo-github.jpg" alt="Cover banner"/>
   <br/>
 </p>
 <h3 align="center"><image alt="GIF" src="image/Developer.gif" width="40px" align="center"/> Programmer & Problem Solver <image alt="GIF" src="image/laptop_code.gif" width="35px" align="center"/></h3>
