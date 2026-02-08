@@ -8,7 +8,7 @@
   <br/>
 </p>
 <h3 align="center"><image alt="GIF" src="image/Developer.gif" width="40px" align="center"/> Programmer & Problem Solver <image alt="GIF" src="image/laptop_code.gif" width="35px" align="center"/></h3>
-<h5 align="center">🌲THINK LESS, DO MORE🌱</h5>
+<h5 align="center">🌲 Patience, Learning, Insight and Innovation 🌱</h5>
 <h1 align="center"></h1>
 <h4 align = "left"> About Me: <img alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="35px" align="center"/></h4>
 <p5 align="left">I'm a dedicated programmer & problem solver with a strong passion for writing clean and efficient code. I enjoy transforming complex problems into simple, logical solutions through smart algorithms and optimized implementation. My work focuses on performance, accuracy, and scalability to ensure real-world reliability. I continuously learn new technologies to stay updated and improve my development skills. </p5>
