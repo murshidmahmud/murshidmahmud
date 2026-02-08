@@ -3,7 +3,10 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=950&color=C0F7F1&center=true&vCenter=true&width=435&lines=Hi!+There+%F0%9F%91%8B;I+am+Murshid+Mahmud;%F0%9F%93%A2+Welcome+to+my+profile" alt="Typing SVG" /></a>
 </div>
 
-![Competitive Problem Solver](https://media.licdn.com/dms/image/v2/D4D16AQHnXacMaW2I7A/profile-displaybackgroundimage-shrink_350_1400/B4DZf1raVXGQAY-/0/1752173489127?e=1771459200&v=beta&t=Apbeb-1GVT33fi7-GDr4mkKcouWPgq5-ZNHgtT7de5s)
+<p>
+ <image src="image/Linkedin-banner.jpg" alt="Cover banner"/>
+  <br/>
+</p>
 <h3 align="center"><image alt="GIF" src="image/Developer.gif" width="40px" align="center"/> Programmer & Problem Solver <image alt="GIF" src="image/laptop_code.gif" width="35px" align="center"/></h3>
 <h5 align="center">🌲THINK LESS, DO MORE🌱</h5>
 <h1 align="center"></h1>
