@@ -56,9 +56,20 @@
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> &ensp;
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> &ensp;
 </div>
-<br>
+<!-- <br> -->
 </details>
 
+<!-- <summary align="center"><h2><img alt="GIF" src="./images/laptop.gif" width="25px"> Featured Projects </h2></summary> -->
+  <div align="center">
+      <br>
+      <a href="https://github.com/Shakil-Ahammed-bdd/Personal-Portfolio" target="_blank"><img src="https://img.shields.io/badge/-Personal--Portfolio-blueviolet?logo=github&style=for-the-badge"></a>
+      <a href="https://github.com/Shakil-Ahammed-bdd/Django-Codes" target="_blank"><img src="https://img.shields.io/badge/-Django--Codes-orange?logo=django&logoColor=white&style=for-the-badge"></a>
+      <a href="https://github.com/Shakil-Ahammed-bdd/Codeforces_Contest" target="_blank"><img src="https://img.shields.io/badge/-Codeforces_Contest-333399?logo=Codeforces&logoColor=white&style=for-the-badge"></a>
+      <a href="https://github.com/Shakil-Ahammed-bdd/Python" target="_blank"><img src="https://img.shields.io/badge/-Python-009688?logo=python&logoColor=white&style=for-the-badge"></a>
+      <!-- <br><br> -->
+  </div>
+
+  
 <details open>
 <summary align="center"><h2>Profile Statistics <image alt="GIF" src="image/statistics.gif" width="35px" align="center"/></h2></summary>
  
