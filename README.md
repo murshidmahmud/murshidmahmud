@@ -62,10 +62,10 @@
 <!-- <summary align="center"><h2><img alt="GIF" src="./images/laptop.gif" width="25px"> Featured Projects </h2></summary> -->
   <div align="center">
       <br>
-      <a href="https://github.com/murshidmahmud/Train-Ticket-Management-System" target="_blank"><img src="https://img.shields.io/badge/-Train--Ticket--Management--System-blueviolet?logo=Java&style=for-the-badge"></a>
-      <a href="https://github.com/murshidmahmud/Design-an-ATM" target="_blank"><img src="https://img.shields.io/badge/-Design--an--ATM-orange?logo=Java&logoColor=white&style=for-the-badge"></a>
-      <a href="https://github.com/murshidmahmud/Meal-Management-System-on-Mass" target="_blank"><img src="https://img.shields.io/badge/-Meal--Management--System-333399?logo=Java&logoColor=white&style=for-the-badge"></a>
-      <a href="https://github.com/murshidmahmud/All-Website" target="_blank"><img src="https://img.shields.io/badge/-All--Website-009688?logo=HTML&logoColor=white&style=for-the-badge"></a>
+      <a href="https://github.com/murshidmahmud/Train-Ticket-Management-System" target="_blank"><img src="https://img.shields.io/badge/-Train--Ticket--Management--System-blueviolet?logo=java&logoColor=white&style=for-the-badge"></a>
+      <a href="https://github.com/murshidmahmud/Design-an-ATM" target="_blank"><img src="https://img.shields.io/badge/-Design--an--ATM-orange?logo=java&logoColor=white&style=for-the-badge"></a>
+      <a href="https://github.com/murshidmahmud/Meal-Management-System-on-Mass" target="_blank"><img src="https://img.shields.io/badge/-Meal--Management--System-333399?logo=java&logoColor=white&style=for-the-badge"></a>
+      <a href="https://github.com/murshidmahmud/All-Website" target="_blank"><img src="https://img.shields.io/badge/-All--Website-009688?logo=HTML5&logoColor=white&style=for-the-badge"></a>
       <!-- <br><br> -->
   </div>
 
