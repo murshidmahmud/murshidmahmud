@@ -15,7 +15,7 @@
 <br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=murshidmahmud&label=Profile%20views&color=0e75b6&style=flat" alt="murshidmahmud" /> </p>
  
- <image align="right" alt="GIF" src="image/ai.gif"  width=35% height=45%/>
+ <image align="right" alt="GIF" src="image/ai.gif"  width=30% height=25%/>
   
 - 🔭 I’m currently working on Problem Solving <!--<a href="https://codeforces.com/profile/Murshid_Mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/murshid_mahmud" height="20" width="30" /></a> <a href="https://www.codechef.com/users/mahmud5700" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef profile" height="30" width="40" /></a>-->
 
@@ -27,10 +27,11 @@
 
 - 📫 How to reach me **murshidmahmud4@gmail.com**
 
-- ⚡ Fun fact **I love coding** <!--<image alt="GIF" src="image/laptop.gif" width="45px" align="center"/>-->
+- ⚡ Fun fact **I love coding**
+<br>
 
 <details open>
-<summary align ="center"><h3>Connect with me</h3> <img alt="GIF" src="image/handshake2.gif" width="30px" align="center"/></summary>
+<summary align="center"><h3>Social & Contact <img alt="GIF" src="image/handshake2.gif" width="30px" align="center"/></h3></summary>
 <div id="badges" align="center">
  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-murshid-mahmud-41a9a1373/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bdo0xJSfHSq2PEPnJeuCKhA%3D%3D)
@@ -46,7 +47,6 @@
 <a href="https://codeforces.com/profile/Murshid_Mahmud" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/murshid_mahmud" height="30" width="30"/></a> &ensp;
 <a href="https://www.codechef.com/users/mahmud5700" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef profile" height="30" width="40"/></a> &ensp;-->
 </div>
-<br>
 </details>
 
 <details open>
