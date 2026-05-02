@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=67&section=header"/>
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=950&color=C0F7F1&center=true&vCenter=true&width=435&lines=Hi!+There+%F0%9F%91%8B;I+am+Murshid+Mahmud;%F0%9F%93%A2+Welcome+to+my+profile" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=950&color=4F39F6&center=true&vCenter=true&width=435&lines=Hi!+There+%F0%9F%91%8B;I+am+Murshid+Mahmud;%F0%9F%93%A2+Welcome+to+my+profile" alt="Typing SVG" /></a>
 </div>
 
 <p>
@@ -117,13 +117,13 @@
   </div>
   <br>
   <div align="center">
-  <a href="https://github.com/murshidmahmud"><img alt="Murshid's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=murshidmahmud&bg_color=00000000&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  <a href="https://github.com/murshidmahmud"><img alt="Murshid's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=murshidmahmud&bg_color=00000000&title_color=4F39F6&color=4F39F6&line=4F39F6&point=FB2C36&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
 <br>
 </details>
 
 <div align = "center">
  <br>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=900&color=ACEBF7&center=true&vCenter=true&width=435&lines=Thank+you+for+Visiting;I'm+watting+for+you+again;Have+a+nice+day!+%F0%9F%98%8A" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=900&color=4F39F6&center=true&vCenter=true&width=435&lines=Thank+you+for+Visiting;I'm+watting+for+you+again;Have+a+nice+day!+%F0%9F%98%8A" alt="Typing SVG" /></a>
 </div>
 <image wigth="100%" src="https://capsule-render.vercel.app/api?type=waving&height=67&color=gradient&section=footer&fontAlignY=76&animation=twinkling&fontSize=30&descAlign=70"/>
