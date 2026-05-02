@@ -30,13 +30,13 @@
 - ⚡ Fun fact **I love coding** <!--<image alt="GIF" src="image/laptop.gif" width="45px" align="center"/>-->
 
 <details open>
-<summary align = "right"><h3>Connect with me <img alt="GIF" src="image/handshake2.gif" width="30px" align="center"/></h3></summary>
+<summary align ="center"><h3>Connect with me<img alt="GIF" src="image/handshake2.gif" width="30px" align="center"/></h3></summary>
 <div id="badges" align="center">
  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-murshid-mahmud-41a9a1373/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bdo0xJSfHSq2PEPnJeuCKhA%3D%3D)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murshidmahmud4@gmail.com)
 [![Website](https://img.shields.io/badge/-Website-0e75b6?style=flat&logo=Google-Chrome&logoColor=white)](https://github.com/murshidmahmud)
-[![Blogs](https://img.shields.io/badge/-Blogs-0aa6a6?style=flat&logo=readthedocs&logoColor=white)](https://blogs.@murshid.visuals/)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=white)](https://x.com/@murshid57)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/mahmudmurshidtoto.202)
 [![GitHub](https://img.shields.io/github/followers/unexplainablefish52?label=Follow&style=social)](https://github.com/murshidmahmud)
  
