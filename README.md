@@ -30,7 +30,7 @@
 - ⚡ Fun fact **I love coding** <!--<image alt="GIF" src="image/laptop.gif" width="45px" align="center"/>-->
 
 <details open>
-<summary align ="center"><h3>Connect with me <!--<img alt="GIF" src="image/handshake2.gif" width="30px" align="center"/></h3></summary>-->
+<summary align ="center" ><h2>Connect with me</h2> <img alt="GIF" src="image/handshake2.gif" width="30px" align="center"/></summary>
 <div id="badges" align="center">
  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-murshid-mahmud-41a9a1373/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bdo0xJSfHSq2PEPnJeuCKhA%3D%3D)
