@@ -73,11 +73,12 @@
 
 
 ### <h4>Other's Tool</h4>
-
+ 
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
  ![Figma](https://img.shields.io/badge/Figma-21BCFF?style=for-the-badge&logo=figma&logoColor=white)
  ![Adobe%20XD](https://img.shields.io/badge/Adobe%20XD-F75EEE?style=for-the-badge&logo=adobe%20xd&logoColor=white)
+ ![AI](https://img.shields.io/badge/AI-00C853?style=for-the-badge&logo=brain&logoColor=white)
  
 <!--<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> &ensp;
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> &ensp;
