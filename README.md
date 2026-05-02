@@ -19,32 +19,40 @@
   
 - 🔭 I’m currently working on Problem Solving <!--<a href="https://codeforces.com/profile/Murshid_Mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/murshid_mahmud" height="20" width="30" /></a> <a href="https://www.codechef.com/users/mahmud5700" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef profile" height="30" width="40" /></a>-->
 
-- 🌱 I’m currently learning **C/C++/java/python** <image alt="GIF" src="image/learninig.gif" width="30px" align="center"/>
+- 🌱 I’m currently learning **C/C++/java/python** <!--<image alt="GIF" src="image/learninig.gif" width="30px" align="center"/>-->
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/murshidmahmud)
 
-- 💬 Ask me about **cpp/java/py**/html/css <image alt="GIF" src="image/paper.gif" width="29px" align="center"/>
+- 💬 Ask me about **cpp/java/py**/html/css <!--<image alt="GIF" src="image/paper.gif" width="29px" align="center"/>-->
 
 - 📫 How to reach me **murshidmahmud4@gmail.com**
 
-- ⚡ Fun fact **I love coding** <image alt="GIF" src="image/laptop.gif" width="45px" align="center"/>
+- ⚡ Fun fact **I love coding** <!--<image alt="GIF" src="image/laptop.gif" width="45px" align="center"/>-->
 
 <details open>
-<summary align="center"><h2>Connect with me <img alt="GIF" src="image/handshake2.gif" width="30px" align="center"/></h2></summary>
+<summary align="center"><h3>Connect with me <img alt="GIF" src="image/handshake2.gif" width="30px" align="center"/></h3></summary>
 <div id="badges" align="center">
-<a href="https://twitter.com/murshid57" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murshid57" height="30" width="30"/></a> &ensp;
+ 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-murshid-mahmud-41a9a1373/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bdo0xJSfHSq2PEPnJeuCKhA%3D%3D)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murshidmahmud4@gmail.com)
+[![Website](https://img.shields.io/badge/-Website-0e75b6?style=flat&logo=Google-Chrome&logoColor=white)](https://github.com/murshidmahmud)
+[![Blogs](https://img.shields.io/badge/-Blogs-0aa6a6?style=flat&logo=readthedocs&logoColor=white&link=https://blogs.@murshid.visuals/)](https://blogs.@murshid.visuals/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/mahmudmurshidtoto.202)
+[![GitHub](https://img.shields.io/github/followers/unexplainablefish52?label=Follow&style=social)](https://github.com/murshidmahmud)
+ 
+<!--<a href="https://twitter.com/murshid57" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murshid57" height="30" width="30"/></a> &ensp;
 <a href="https://www.linkedin.com/in/md-murshid-mahmud-41a9a1373?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQX2JDMtLS16n%2B%2BAFbzZA%2Fg%3D%3D" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-murshid-mahmud-41a9a1373" height="30" width="30"/></a> &ensp;
 <a href="https://fb.com/@mahmudmurshidtoto.202" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@mahmudmurshidtoto.202" height="30" width="30"/></a> &ensp;
 <a href="https://codeforces.com/profile/Murshid_Mahmud" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/murshid_mahmud" height="30" width="30"/></a> &ensp;
-<a href="https://www.codechef.com/users/mahmud5700" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef profile" height="30" width="40"/></a> &ensp;
+<a href="https://www.codechef.com/users/mahmud5700" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef profile" height="30" width="40"/></a> &ensp;-->
 </div>
 <br>
 </details>
 
 <details open>
-<summary align="center"><h2>Languages and Tools</h2><img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0Nzl0NXNvanRtZ2RhZ3QwdTRldG9haWdqMmE5eGQ5djZnM2w4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rH4STTV6GoiHT004rI/giphy.gif" width="25px" align="center" gap="10px"/></summary>
+<summary align="center"><h2>Tech Stack</h2><img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0Nzl0NXNvanRtZ2RhZ3QwdTRldG9haWdqMmE5eGQ5djZnM2w4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rH4STTV6GoiHT004rI/giphy.gif" width="25px" align="center" gap="10px"/></summary>
 <div align="center"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> &ensp;
+<!--<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> &ensp;
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> &ensp;
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> &ensp;
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> &ensp;
@@ -53,7 +61,7 @@
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> &ensp;
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> &ensp;
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> &ensp;
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> &ensp;
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> &ensp;-->
 </div>
 <!-- <br> -->
 </details>
