@@ -30,7 +30,7 @@
 - ⚡ Fun fact **I love coding** <!--<image alt="GIF" src="image/laptop.gif" width="45px" align="center"/>-->
 
 <details open>
-<summary align ="center" ><h2>Connect with me</h2> <img alt="GIF" src="image/handshake2.gif" width="30px" align="center"/></summary>
+<summary align ="center"><h3>Connect with me</h3> <img alt="GIF" src="image/handshake2.gif" width="30px" align="center"/></summary>
 <div id="badges" align="center">
  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-murshid-mahmud-41a9a1373/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bdo0xJSfHSq2PEPnJeuCKhA%3D%3D)
@@ -50,8 +50,35 @@
 </details>
 
 <details open>
-<summary align="center"><h2>Tech Stack</h2><img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0Nzl0NXNvanRtZ2RhZ3QwdTRldG9haWdqMmE5eGQ5djZnM2w4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rH4STTV6GoiHT004rI/giphy.gif" width="25px" align="center" gap="10px"/></summary>
+<summary align="center"><h3>Tech Stack</h3><img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0Nzl0NXNvanRtZ2RhZ3QwdTRldG9haWdqMmE5eGQ5djZnM2w4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rH4STTV6GoiHT004rI/giphy.gif" width="25px" align="center" gap="10px"/></summary>
 <div align="center"> 
+
+### <h4>Language</h4>
+
+ ![C](https://img.shields.io/badge/C-FF8904?style=for-the-badge&logo=c&logoColor=white)
+ ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![Java](https://img.shields.io/badge/Java-F7DF2W?style=for-the-badge&logo=java&logoColor=black)
+
+ 
+### <h4>Library & Framework</h4>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-2984D1?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
+### <h4>Other's Tool</h4>
+
+ ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ ![Figma](https://img.shields.io/badge/Figma-21BCFF?style=for-the-badge&logo=figma&logoColor=white)
+ ![Adobe%20XD](https://img.shields.io/badge/Adobe%20XD-F75EEE?style=for-the-badge&logo=adobe%20xd&logoColor=white)
+ 
 <!--<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> &ensp;
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> &ensp;
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> &ensp;
@@ -66,7 +93,8 @@
 <!-- <br> -->
 </details>
 
-<!-- <summary align="center"><h2><img alt="GIF" src="./images/laptop.gif" width="25px"> Featured Projects </h2></summary> -->
+<details open>
+ <summary align="center"><h3>Project Featured</h3></summary>
   <div align="center">
       <br>
       <a href="https://github.com/murshidmahmud/Train-Ticket-Management-System" target="_blank"><img src="https://img.shields.io/badge/-Train--Ticket--Management--System-blueviolet?logo=java&logoColor=white&style=for-the-badge"></a>
@@ -75,10 +103,10 @@
       <a href="https://github.com/murshidmahmud/All-Website" target="_blank"><img src="https://img.shields.io/badge/-All--Website-009688?logo=HTML5&logoColor=white&style=for-the-badge"></a>
       <!-- <br><br> -->
   </div>
-
+</details>
   
 <details open>
-<summary align="center"><h2>Profile Statistics <image alt="GIF" src="image/statistics.gif" width="35px" align="center"/></h2></summary>
+<summary align="center"><h3>Profile Statistics <image alt="GIF" src="image/statistics.gif" width="35px" align="center"/></h3></summary>
  
 <div align="center">
  <br>
