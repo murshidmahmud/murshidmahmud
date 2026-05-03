@@ -82,7 +82,7 @@
 
 ### <h4>🗄️DataBase</h4>
 
-![MySQL](https://img.shields.io/badge/MySQL-FFA81F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FFA81F?style=for-the-badge&logo=mysql&logoColor=08668E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-376695?style=for-the-badge&logo=postgresql&logoColor=white)
 
