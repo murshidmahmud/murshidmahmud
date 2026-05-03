@@ -15,7 +15,7 @@
 <br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=murshidmahmud&label=Profile%20views&color=0e75b6&style=flat" alt="murshidmahmud" /> </p>
  
- <image align="right" alt="GIF" src="image/ai.gif"  width=30% height=25%/>
+ <image align="right" alt="GIF" src="image/ai.gif"  width=30% height=22%/>
   
 - 🔭 I’m currently working on Problem Solving<!--<a href="https://codeforces.com/profile/Murshid_Mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/murshid_mahmud" height="20" width="30" /></a> <a href="https://www.codechef.com/users/mahmud5700" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef profile" height="30" width="40" /></a>-->
 
@@ -124,13 +124,16 @@
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=murshidmahmud&theme=github-dark-blue&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
     <br><br>
     <img height="192px" alt="Murshid's top language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murshidmahmud&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" weight=41% height="192px"/>
-    <!--<img height="192px" alt="Murshid's github stats" src="https://github-readme-stats.vercel.app/api?username=murshidmahmud&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub Stats&show_icons=true"/>-->
+    <a href="https://github.com/murshidmahmud"><img src="https://gh-readme-profile.vercel.app/api?username=murshidmahmud&theme=catppuccin-macchiato" alt="Profile Card" width="37%"></a>
+ 
+ <!--<img src="https://github-readme-stats-mfscpayload-690.vercel.app/api?username=murshidmahmud&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" width="35%" alt="GitHub Stats" />
+    <img height="192px" alt="Murshid's github stats" src="https://github-readme-stats.vercel.app/api?username=murshidmahmud&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub Stats&show_icons=true"/>-->
  
 </div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
   
   <div align="center">
-  <a href="https://github.com/murshidmahmud"><img alt="Murshid's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=murshidmahmud&bg_color=00000000&title_color=4F39F6&color=4F39F6&line=4F39F6&point=FB2C36&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  <a href="https://github.com/murshidmahmud"><img alt="Murshid's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=murshidmahmud&bg_color=00000000&title_color=31C950&color=31C950&line=31C950&point=FB2C36&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
 <br>
 </details>
