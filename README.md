@@ -17,7 +17,7 @@
  
  <image align="right" alt="GIF" src="image/ai.gif"  width=30% height=25%/>
   
-- 🔭 I’m currently working on Problem Solving <!--<a href="https://codeforces.com/profile/Murshid_Mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/murshid_mahmud" height="20" width="30" /></a> <a href="https://www.codechef.com/users/mahmud5700" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef profile" height="30" width="40" /></a>-->
+- 🔭 I’m currently working on Problem Solving<!--<a href="https://codeforces.com/profile/Murshid_Mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/murshid_mahmud" height="20" width="30" /></a> <a href="https://www.codechef.com/users/mahmud5700" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef profile" height="30" width="40" /></a>-->
 
 - 🌱 I’m currently learning **C/C++/java/python** <!--<image alt="GIF" src="image/learninig.gif" width="30px" align="center"/>-->
 
@@ -37,7 +37,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-murshid-mahmud-41a9a1373/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bdo0xJSfHSq2PEPnJeuCKhA%3D%3D)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murshidmahmud4@gmail.com)
 [![Website](https://img.shields.io/badge/-Website-0e75b6?style=flat&logo=Google-Chrome&logoColor=white)](https://github.com/murshidmahmud)
-[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=white)](https://x.com/@murshid57)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=white)](https://x.com/murshid57)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/mahmudmurshidtoto.202)
 [![GitHub](https://img.shields.io/github/followers/murshidmahmud?label=Follow&style=social)](https://github.com/murshidmahmud)
  
@@ -48,6 +48,7 @@
 <a href="https://www.codechef.com/users/mahmud5700" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef profile" height="30" width="40"/></a> &ensp;-->
 </div>
 </details>
+<h1 align="center"></h1>
 
 <details open>
 <summary align="center"><h3>Tech Stack</h3><img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0Nzl0NXNvanRtZ2RhZ3QwdTRldG9haWdqMmE5eGQ5djZnM2w4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rH4STTV6GoiHT004rI/giphy.gif" width="25px" align="center" gap="10px"/></summary>
@@ -91,8 +92,8 @@
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> &ensp;
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> &ensp;-->
 </div>
-<!-- <br> -->
 </details>
+<h1 align="center"></h1>
 
 <details open>
  <summary align="center"><h3>Project Featured</h3></summary>
@@ -105,6 +106,7 @@
       <!-- <br><br> -->
   </div>
 </details>
+<h1 align="center"></h1>
   
 <details open>
 <summary align="center"><h3>Profile Statistics <image alt="GIF" src="image/statistics.gif" width="35px" align="center"/></h3></summary>
@@ -115,8 +117,9 @@
     <br><br>
     <img height="192px" alt="Murshid's top language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murshidmahmud&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" weight=41% height="192px"/>
     <img height="192px" alt="Murshid's github stats" src="https://github-readme-stats.vercel.app/api?username=murshidmahmud&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub Stats&show_icons=true"/>
-  </div>
-  <br>
+</div>
+<h1 align="center"></h1>
+  
   <div align="center">
   <a href="https://github.com/murshidmahmud"><img alt="Murshid's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=murshidmahmud&bg_color=00000000&title_color=4F39F6&color=4F39F6&line=4F39F6&point=FB2C36&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
