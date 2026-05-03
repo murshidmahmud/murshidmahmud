@@ -56,7 +56,7 @@
 <a href="https://www.codechef.com/users/mahmud5700" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef profile" height="30" width="40"/></a> &ensp;-->
 </div>
 </details>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" align="center" width="75%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" height="30%" width="100%">
 
 <details open>
 <summary align="center"><h3>Tech Stack</h3><img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0Nzl0NXNvanRtZ2RhZ3QwdTRldG9haWdqMmE5eGQ5djZnM2w4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rH4STTV6GoiHT004rI/giphy.gif" width="25px" align="center" gap="10px"/></summary>
