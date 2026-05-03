@@ -59,10 +59,10 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" height="30%" width="100%">
 
 <details open>
-<summary align="center"><h3>Tech Stack</h3><img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0Nzl0NXNvanRtZ2RhZ3QwdTRldG9haWdqMmE5eGQ5djZnM2w4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rH4STTV6GoiHT004rI/giphy.gif" width="25px" align="center" gap="10px"/></summary>
+<summary align="center"><h3>🛠️ Tech Stack</h3></summary>
 <div align="center"> 
 
-### <h4>Language</h4>
+### <h4>📒 Language</h4>
 
  ![C](https://img.shields.io/badge/C-FF8904?style=for-the-badge&logo=c&logoColor=white)
  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -71,7 +71,7 @@
  ![Java](https://img.shields.io/badge/Java-F7DF2W?style=for-the-badge&logo=java&logoColor=black)
 
  
-### <h4>Library & Framework</h4>
+### <h4>📚 Library & Framework</h4>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -80,9 +80,16 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+### <h4>🗄️DataBase</h4>
 
-### <h4>Other's Tool</h4>
- 
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### <h4>⚙️ Other's Tool</h4>
+
+ ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
  ![Figma](https://img.shields.io/badge/Figma-21BCFF?style=for-the-badge&logo=figma&logoColor=white)
@@ -104,7 +111,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 <details open>
- <summary align="center"><h3>Project Featured</h3></summary>
+ <summary align="center"><h3>📑 Project Featured</h3></summary>
   <div align="center">
       <br>
       <a href="https://github.com/murshidmahmud/Train-Ticket-Management-System" target="_blank"><img src="https://img.shields.io/badge/-Train--Ticket--Management--System-blueviolet?logo=java&logoColor=white&style=for-the-badge"></a>
