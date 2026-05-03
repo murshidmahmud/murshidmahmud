@@ -34,13 +34,21 @@
 <summary align="center"><h3>Social & Contact <img alt="GIF" src="image/handshake2.gif" width="30px" align="center"/></h3></summary>
 <div id="badges" align="center">
  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-murshid-mahmud-41a9a1373/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bdo0xJSfHSq2PEPnJeuCKhA%3D%3D)
+<!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-murshid-mahmud-41a9a1373/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bdo0xJSfHSq2PEPnJeuCKhA%3D%3D)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murshidmahmud4@gmail.com)
 [![Website](https://img.shields.io/badge/-Website-0e75b6?style=flat&logo=Google-Chrome&logoColor=white)](https://github.com/murshidmahmud)
 [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=white)](https://x.com/murshid57)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/mahmudmurshidtoto.202)
-[![GitHub](https://img.shields.io/github/followers/murshidmahmud?label=Follow&style=social)](https://github.com/murshidmahmud)
- 
+[![GitHub](https://img.shields.io/github/followers/murshidmahmud?label=Follow&style=social)](https://github.com/murshidmahmud)-->
+
+<a href="https://www.linkedin.com/in/md-murshid-mahmud-41a9a1373/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bdo0xJSfHSq2PEPnJeuCKhA%3D%3D"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=42&bg=%23000000&shape=circle&animation=shake&animationDuration=1.3" alt="linkedin" /></a>
+<a href="mailto:murshidmahmud4@gmail.com"><img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=42&bg=%23000000&shape=circle&animation=breathe&animationDuration=1.3" alt="gmail" /></a>
+<a href="https://facebook.com/mahmudmurshidtoto.202"><img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=42&bg=%23000000&shape=circle&animation=shake&animationDuration=1.3" alt="facebook" /></a>
+<a href="https://x.com/murshid57"><img src="https://www.readmecodegen.com/api/social-icon?name=twitter&size=42&bg=%23000000&shape=circle&animation=breathe&animationDuration=1.3" alt="x" /></a>
+<a href="https://wa.me/01751096956"><img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=42&bg=%23000000&shape=circle&animation=shake&animationDuration=1.3" alt="whatsapp" /></a>
+<a href="https://codeforces.com/profile/Murshid_Mahmud"><img src="https://www.readmecodegen.com/api/social-icon?name=codeforces&size=42&bg=%23000000&shape=circle&animation=breathe&animationDuration=1.5" alt="codeforces" /></a>
+<a href="https://www.codechef.com/users/mahmud5700"><img src="https://www.readmecodegen.com/api/social-icon?name=codechef&size=42&bg=%23000000&shape=circle&animation=breathe&animationDuration=1.3" alt="codechef" /></a>
+
 <!--<a href="https://twitter.com/murshid57" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murshid57" height="30" width="30"/></a> &ensp;
 <a href="https://www.linkedin.com/in/md-murshid-mahmud-41a9a1373?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQX2JDMtLS16n%2B%2BAFbzZA%2Fg%3D%3D" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-murshid-mahmud-41a9a1373" height="30" width="30"/></a> &ensp;
 <a href="https://fb.com/@mahmudmurshidtoto.202" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@mahmudmurshidtoto.202" height="30" width="30"/></a> &ensp;
@@ -48,7 +56,7 @@
 <a href="https://www.codechef.com/users/mahmud5700" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef profile" height="30" width="40"/></a> &ensp;-->
 </div>
 </details>
-<h1 align="center"></h1>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" align="center" width="75%">
 
 <details open>
 <summary align="center"><h3>Tech Stack</h3><img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0Nzl0NXNvanRtZ2RhZ3QwdTRldG9haWdqMmE5eGQ5djZnM2w4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rH4STTV6GoiHT004rI/giphy.gif" width="25px" align="center" gap="10px"/></summary>
@@ -93,7 +101,7 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> &ensp;-->
 </div>
 </details>
-<h1 align="center"></h1>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 <details open>
  <summary align="center"><h3>Project Featured</h3></summary>
@@ -106,7 +114,7 @@
       <!-- <br><br> -->
   </div>
 </details>
-<h1 align="center"></h1>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
   
 <details open>
 <summary align="center"><h3>Profile Statistics <image alt="GIF" src="image/statistics.gif" width="35px" align="center"/></h3></summary>
@@ -116,9 +124,10 @@
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=murshidmahmud&theme=github-dark-blue&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
     <br><br>
     <img height="192px" alt="Murshid's top language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murshidmahmud&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" weight=41% height="192px"/>
-    <img height="192px" alt="Murshid's github stats" src="https://github-readme-stats.vercel.app/api?username=murshidmahmud&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub Stats&show_icons=true"/>
+    <!--<img height="192px" alt="Murshid's github stats" src="https://github-readme-stats.vercel.app/api?username=murshidmahmud&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub Stats&show_icons=true"/>-->
+ 
 </div>
-<h1 align="center"></h1>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
   
   <div align="center">
   <a href="https://github.com/murshidmahmud"><img alt="Murshid's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=murshidmahmud&bg_color=00000000&title_color=4F39F6&color=4F39F6&line=4F39F6&point=FB2C36&hide_border=true&custom_title=Contribution⠀Graph" /></a>
